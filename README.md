@@ -24,6 +24,9 @@ The model is trained using large-scale datasets including:
 - Scientific documents
 - Multilingual text
 
+<img width="1672" height="941" alt="1000178353" src="https://github.com/user-attachments/assets/48da166d-3c31-4677-a2f8-d7420dc737c4" />
+
+
 ## Training Parameters
 - Architecture: Transformer
 - Parameters: 685 Billion
