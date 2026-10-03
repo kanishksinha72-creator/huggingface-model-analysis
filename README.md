@@ -29,7 +29,7 @@ The model is trained using large-scale datasets including:
 
 ## Training Parameters
 - Architecture: Transformer
-- Parameters: 685 Billion
+- Parameters: 671 Billion
 - Reinforcement Learning (RL)
 - Supervised Fine-Tuning (SFT)
 - Chain of Thought (CoT)
